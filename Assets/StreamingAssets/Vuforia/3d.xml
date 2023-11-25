@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="isometric-room2" size="750.000000 421.000000" />
+    <ImageTarget name="isometric-japanese-tea-room" size="750.000000 421.000000" />
+    <ImageTarget name="isometric-bedroom" size="750.000000 421.000000" />
+    <ImageTarget name="holiday-scene-christmas-night" size="750.000000 421.000000" />
+    <ImageTarget name="entertainment-room" size="750.000000 421.000000" />
+    <ImageTarget name="creators-studio-low-poly-challenge" size="750.000000 421.000000" />
+    <ImageTarget name="chaldea-staff-room-" size="750.000000 421.000000" />
+    <ImageTarget name="broadcasting-rooms-isometric" size="750.000000 421.000000" />
+    <ImageTarget name="artist-workroom" size="750.000000 421.000000" />
+  </Tracking>
+</QCARConfig>

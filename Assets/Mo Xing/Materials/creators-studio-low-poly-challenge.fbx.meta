@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 55cbcfd754b0aff4aac619449e14a75b
+timeCreated: 1671875027
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boxes-lamp-trash_boxes-blue_0
+    100002: boxes-lamp-trash_boxes-green_0
+    100004: boxes-lamp-trash_boxes-label-outer_0
+    100006: boxes-lamp-trash_boxes-label_0
+    100008: boxes-lamp-trash_boxes-red_0
+    100010: boxes-lamp-trash_bulb_0
+    100012: boxes-lamp-trash_lamp-shade_0
+    100014: boxes-lamp-trash_lamps_0
+    100016: boxes-lamp-trash_trash-can_0
+    100018: camera-computer-cords_cords_0
+    100020: camera-computer-cords_keyboard_0
+    100022: camera-computer-cords_keys-num_0
+    100024: camera-computer-cords_keys_0
+    100026: camera-computer-cords_monitor_0
+    100028: chair-desk-dslr_chair-base_0
+    100030: chair-desk-dslr_chair_0
+    100032: chair-desk-dslr_desk_0
+    100034: chair-desk-dslr_dslr-glass_0
+    100036: chair-desk-dslr_dslr_0
+    100038: //RootNode
+    100040: curtain-noise_curtain-rod_0
+    100042: curtain-noise_curtain_0
+    100044: curtain-noise_noise_0
+    100046: poster-minecraft_minecraft_0
+    100048: poster-minecraft_poster_0
+    100050: switch-window-walls_floor_0
+    100052: switch-window-walls_outlets_0
+    100054: switch-window-walls_switch-black_0
+    100056: switch-window-walls_switch-blue_0
+    100058: switch-window-walls_switch-red_0
+    100060: switch-window-walls_switch-screen_0
+    100062: switch-window-walls_walls_0
+    100064: switch-window-walls_window-pane_0
+    100066: switch-window-walls_window_0
+    400000: boxes-lamp-trash_boxes-blue_0
+    400002: boxes-lamp-trash_boxes-green_0
+    400004: boxes-lamp-trash_boxes-label-outer_0
+    400006: boxes-lamp-trash_boxes-label_0
+    400008: boxes-lamp-trash_boxes-red_0
+    400010: boxes-lamp-trash_bulb_0
+    400012: boxes-lamp-trash_lamp-shade_0
+    400014: boxes-lamp-trash_lamps_0
+    400016: boxes-lamp-trash_trash-can_0
+    400018: camera-computer-cords_cords_0
+    400020: camera-computer-cords_keyboard_0
+    400022: camera-computer-cords_keys-num_0
+    400024: camera-computer-cords_keys_0
+    400026: camera-computer-cords_monitor_0
+    400028: chair-desk-dslr_chair-base_0
+    400030: chair-desk-dslr_chair_0
+    400032: chair-desk-dslr_desk_0
+    400034: chair-desk-dslr_dslr-glass_0
+    400036: chair-desk-dslr_dslr_0
+    400038: //RootNode
+    400040: curtain-noise_curtain-rod_0
+    400042: curtain-noise_curtain_0
+    400044: curtain-noise_noise_0
+    400046: poster-minecraft_minecraft_0
+    400048: poster-minecraft_poster_0
+    400050: switch-window-walls_floor_0
+    400052: switch-window-walls_outlets_0
+    400054: switch-window-walls_switch-black_0
+    400056: switch-window-walls_switch-blue_0
+    400058: switch-window-walls_switch-red_0
+    400060: switch-window-walls_switch-screen_0
+    400062: switch-window-walls_walls_0
+    400064: switch-window-walls_window-pane_0
+    400066: switch-window-walls_window_0
+    2300000: boxes-lamp-trash_boxes-blue_0
+    2300002: boxes-lamp-trash_boxes-green_0
+    2300004: boxes-lamp-trash_boxes-label-outer_0
+    2300006: boxes-lamp-trash_boxes-label_0
+    2300008: boxes-lamp-trash_boxes-red_0
+    2300010: boxes-lamp-trash_bulb_0
+    2300012: boxes-lamp-trash_lamp-shade_0
+    2300014: boxes-lamp-trash_lamps_0
+    2300016: boxes-lamp-trash_trash-can_0
+    2300018: camera-computer-cords_cords_0
+    2300020: camera-computer-cords_keyboard_0
+    2300022: camera-computer-cords_keys-num_0
+    2300024: camera-computer-cords_keys_0
+    2300026: camera-computer-cords_monitor_0
+    2300028: chair-desk-dslr_chair-base_0
+    2300030: chair-desk-dslr_chair_0
+    2300032: chair-desk-dslr_desk_0
+    2300034: chair-desk-dslr_dslr-glass_0
+    2300036: chair-desk-dslr_dslr_0
+    2300038: curtain-noise_curtain-rod_0
+    2300040: curtain-noise_curtain_0
+    2300042: curtain-noise_noise_0
+    2300044: poster-minecraft_minecraft_0
+    2300046: poster-minecraft_poster_0
+    2300048: switch-window-walls_floor_0
+    2300050: switch-window-walls_outlets_0
+    2300052: switch-window-walls_switch-black_0
+    2300054: switch-window-walls_switch-blue_0
+    2300056: switch-window-walls_switch-red_0
+    2300058: switch-window-walls_switch-screen_0
+    2300060: switch-window-walls_walls_0
+    2300062: switch-window-walls_window-pane_0
+    2300064: switch-window-walls_window_0
+    3300000: boxes-lamp-trash_boxes-blue_0
+    3300002: boxes-lamp-trash_boxes-green_0
+    3300004: boxes-lamp-trash_boxes-label-outer_0
+    3300006: boxes-lamp-trash_boxes-label_0
+    3300008: boxes-lamp-trash_boxes-red_0
+    3300010: boxes-lamp-trash_bulb_0
+    3300012: boxes-lamp-trash_lamp-shade_0
+    3300014: boxes-lamp-trash_lamps_0
+    3300016: boxes-lamp-trash_trash-can_0
+    3300018: camera-computer-cords_cords_0
+    3300020: camera-computer-cords_keyboard_0
+    3300022: camera-computer-cords_keys-num_0
+    3300024: camera-computer-cords_keys_0
+    3300026: camera-computer-cords_monitor_0
+    3300028: chair-desk-dslr_chair-base_0
+    3300030: chair-desk-dslr_chair_0
+    3300032: chair-desk-dslr_desk_0
+    3300034: chair-desk-dslr_dslr-glass_0
+    3300036: chair-desk-dslr_dslr_0
+    3300038: curtain-noise_curtain-rod_0
+    3300040: curtain-noise_curtain_0
+    3300042: curtain-noise_noise_0
+    3300044: poster-minecraft_minecraft_0
+    3300046: poster-minecraft_poster_0
+    3300048: switch-window-walls_floor_0
+    3300050: switch-window-walls_outlets_0
+    3300052: switch-window-walls_switch-black_0
+    3300054: switch-window-walls_switch-blue_0
+    3300056: switch-window-walls_switch-red_0
+    3300058: switch-window-walls_switch-screen_0
+    3300060: switch-window-walls_walls_0
+    3300062: switch-window-walls_window-pane_0
+    3300064: switch-window-walls_window_0
+    4300000: poster-minecraft_minecraft_0
+    4300002: poster-minecraft_poster_0
+    4300004: camera-computer-cords_monitor_0
+    4300006: camera-computer-cords_keyboard_0
+    4300008: camera-computer-cords_keys_0
+    4300010: camera-computer-cords_keys-num_0
+    4300012: camera-computer-cords_cords_0
+    4300014: curtain-noise_noise_0
+    4300016: curtain-noise_curtain_0
+    4300018: curtain-noise_curtain-rod_0
+    4300020: boxes-lamp-trash_boxes-label-outer_0
+    4300022: boxes-lamp-trash_boxes-blue_0
+    4300024: boxes-lamp-trash_boxes-label_0
+    4300026: boxes-lamp-trash_boxes-red_0
+    4300028: boxes-lamp-trash_boxes-green_0
+    4300030: boxes-lamp-trash_lamp-shade_0
+    4300032: boxes-lamp-trash_bulb_0
+    4300034: boxes-lamp-trash_lamps_0
+    4300036: boxes-lamp-trash_trash-can_0
+    4300038: chair-desk-dslr_chair_0
+    4300040: chair-desk-dslr_chair-base_0
+    4300042: chair-desk-dslr_desk_0
+    4300044: chair-desk-dslr_dslr-glass_0
+    4300046: chair-desk-dslr_dslr_0
+    4300048: switch-window-walls_switch-red_0
+    4300050: switch-window-walls_switch-blue_0
+    4300052: switch-window-walls_switch-screen_0
+    4300054: switch-window-walls_switch-black_0
+    4300056: switch-window-walls_floor_0
+    4300058: switch-window-walls_outlets_0
+    4300060: switch-window-walls_walls_0
+    4300062: switch-window-walls_window-pane_0
+    4300064: switch-window-walls_window_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

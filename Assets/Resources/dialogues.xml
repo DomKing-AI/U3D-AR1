@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>前台</role>
+        <detail>你好！</detail>
+    </dialogue>
+    <dialogue>
+        <role>我</role>
+        <detail>你好！</detail>
+    </dialogue>
+    <dialogue>
+        <role>前台</role>
+        <detail>欢迎来到我们的酒店！</detail>
+    </dialogue>
+    <dialogue>
+        <role>前台</role>
+        <detail>我们这里有着很多房间可供客户挑选</detail>
+    </dialogue>
+    <dialogue>
+        <role>前台</role>
+        <detail>如果你选好了，请告诉我</detail>
+    </dialogue>
+</dialogues>
